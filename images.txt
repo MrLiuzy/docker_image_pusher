@@ -4,8 +4,8 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-azul/zulu-openjdk-alpine:8-latest
-azul/zulu-openjdk-alpine:8-jre-latest
-azul/zulu-openjdk-alpine:11-latest
-azul/zulu-openjdk-alpine:11-jre-latest
+#azul/zulu-openjdk-alpine:8-latest
+#azul/zulu-openjdk-alpine:8-jre-latest
+#azul/zulu-openjdk-alpine:11-latest
+#azul/zulu-openjdk-alpine:11-jre-latest
 kylinv10/kylin:latest
