@@ -8,4 +8,4 @@
 #azul/zulu-openjdk-alpine:8-jre-latest
 #azul/zulu-openjdk-alpine:11-latest
 #azul/zulu-openjdk-alpine:11-jre-latest
-sequenceiq/kylin
+bitnami/kafka:3.9.2
